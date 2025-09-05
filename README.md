@@ -43,8 +43,6 @@
 - **[Password Strength Visualizer](https://p-sushanth.github.io/Password-Strength-Visualizer/)** - Interactive tool to check password strength using regex & dynamic UI updates.
 - **[Typing Test](https://p-sushanth.github.io/Typing-Test/)** - A fun and responsive typing speed test application with real-time feedback.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9A36F7&height=120&section=footer" />
-
 ### 📊 GitHub Stats
 ![Sushanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-Sushanth&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Sushanth&layout=compact&theme=radical)
