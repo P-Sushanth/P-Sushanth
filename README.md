@@ -1,18 +1,13 @@
 <img src="https://raw.githubusercontent.com/P-Sushanth/P-Sushanth/main/assets/line.svg" />
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A31D1D&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sushanth;Front-End+Developer;React+%7C+JavaScript+%7C+UI%2FUX+Enthusiast" alt="Typing SVG" />
-</h1>
-
-🚀 Front-End Developer | React & JavaScript Enthusiast | UI/UX Designer
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A31D1D&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sushanth;Front-End+Developer;React+%7C+JavaScript+%7C+UI%2FUX+Enthusiast" alt="Typing SVG" />
+</p>
 
 - 🎓 B.Tech CSE @ GITAM
 - 💻 Skilled in **HTML, CSS, JavaScript, React.js, C, Python, Java, UI/UX Design, Figma**
 - 🌱 Currently exploring **BackEnd Development and Integration with FrontEnd**
 - ✨ Passionate about building **aesthetically pleasing and functional web experiences**
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/animated-flame-bar.gif" width="500" />
-</p>
 
 ### 🛠️ Tech Stack
 
@@ -37,7 +32,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9A36F7&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:075B5E&height=120&section=footer" />
 
 ### 🌟 Featured Projects
 - **[GENZ Projects](https://p-sushanth.github.io/GENZ-Projects/)** - Website for an architecture firm; optimized with WebP images & responsive design.
