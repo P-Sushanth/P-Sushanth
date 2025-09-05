@@ -51,4 +51,4 @@
 
 ### 📫 Connect with Me
 - 📧 [popurisushanth@gmail.com](mailto:popurisushanth@gmail.com)
-- 💼 [LinkedIn](in/p-sushanth-a04587312)
+- 💼 [LinkedIn](https://www.linkedin.com/in/p-sushanth-a04587312/)
