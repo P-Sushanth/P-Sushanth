@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/P-Sushanth/P-Sushanth/main/assets/line.svg" />
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sushanth;Front-End+Developer;React+%7C+JavaScript+%7C+UI%2FUX+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A31D1D&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sushanth;Front-End+Developer;React+%7C+JavaScript+%7C+UI%2FUX+Enthusiast" alt="Typing SVG" />
 </h1>
 
 🚀 Front-End Developer | React & JavaScript Enthusiast | UI/UX Designer
