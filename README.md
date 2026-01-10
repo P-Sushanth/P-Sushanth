@@ -43,8 +43,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=p-Sushanth&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-Sushanth&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=p-sushanth&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-sushanth&layout=compact&theme=radical)
 
 ---
 
