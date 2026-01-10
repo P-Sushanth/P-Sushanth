@@ -35,9 +35,10 @@
 ---
 
 ### 🌟 Featured Projects
-- **[GENZ Projects](https://github.com/P-Sushanth/GENZ-Projects)**
-- **[Password Strength Visualizer](https://github.com/P-Sushanth/Password-Strength-Visualizer)**
-- **[Typing Test](https://github.com/P-Sushanth/Typing-Test)**
+- **[GENZ Projects](https://p-sushanth.github.io/GENZ-Projects)**
+- **[Password Strength Visualizer](https://p-sushanth.github.io/Password-Strength-Visualizer)**
+- **[Typing Test](https://p-sushanth.github.io/Typing-Test)**
+- **[Multi-Functional-Calculator](https://p-sushanth.github.io/Multi-Functional-Calculator/)**
 
 ---
 
