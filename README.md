@@ -88,7 +88,7 @@ Found 2 active featured projects:
 
 <p align="center">
   <a href="https://github.com/P-Sushanth">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=P-Sushanth&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+    <img height="180em" src="https://github-streak-stats-blush.vercel.app/?user=P-Sushanth&theme=tokyonight&hide_border=true&count_private=true&v=3" alt="GitHub Streak Stats" />
   </a>
 </p>
 
