@@ -29,50 +29,26 @@ I am a passionate Front-End Developer and UI/UX Designer studying Computer Scien
 
 <p align="left">
   <!-- Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/languages/javascript.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/languages/typescript.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/languages/python.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/languages/html5.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/languages/css3.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />&nbsp;
+  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
+<p align="left">
   <!-- Frameworks & Libraries -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/frameworks/react.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/frameworks/nodejs.svg" alt="NodeJS" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/frameworks/express.svg" alt="Express" width="40" height="40" />
-  </a>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />&nbsp;
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
+</p>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<p align="left">
   <!-- Databases & Cloud / DevOps -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/databases/postgresql.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/databases/mongodb.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/databases/redis.svg" alt="Redis" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/tools/docker.svg" alt="Docker" width="40" height="40" />
-  </a>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />&nbsp;
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
@@ -91,13 +67,11 @@ I am a passionate Front-End Developer and UI/UX Designer studying Computer Scien
 
 <p align="center">
   <a href="https://github.com/P-Sushanth">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=P-Sushanth&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/P-Sushanth">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=P-Sushanth&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 </p>
+
+<!-- Note: WakaTime Stats will display once your WakaTime account is integrated with GitHub -->
 
 ---
 
@@ -111,14 +85,16 @@ I am a passionate Front-End Developer and UI/UX Designer studying Computer Scien
 ---
 
 ### 🏙️ 3D Contribution Graph
+<!-- The 3D graph will render here automatically once you push this code to GitHub and run the "GitHub-Profile-3D-Contrib" Action under the Actions tab! -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" onerror="this.style.display='none'" alt="3D Contribution Graph (Pending first Action run)" />
 </p>
 
 ---
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
+<!--Recent activity will be updated here automatically every 30 minutes via GitHub Actions-->
 <!--END_SECTION:activity-->
 
 ---
