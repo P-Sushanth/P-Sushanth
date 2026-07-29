@@ -43,7 +43,7 @@ applications and crafting smooth, user-focused visual journeys."
   • React.js     • Node.js      • Express.js
 
 [Databases & DevOps]
-  • PostgreSQL   • MongoDB      • Redis        • Docker
+  • PostgreSQL   • MongoDB      • Docker
 ```
 
 ---
