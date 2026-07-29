@@ -43,7 +43,7 @@ applications and crafting smooth, user-focused visual journeys."
   • React.js     • Node.js      • Express.js
 
 [Databases & DevOps]
-  • PostgreSQL   • MongoDB      • Docker
+  • PostgreSQL   • MongoDB      • Redis        • Docker
 ```
 
 ---
@@ -103,7 +103,7 @@ Found 2 active featured projects:
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" onerror="this.style.display='none'" alt="3D Contribution Graph (Pending first Action run)" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg?v=2" onerror="this.style.display='none'" alt="3D Contribution Graph" />
 </p>
 
 ---
