@@ -72,15 +72,21 @@ Found 2 active featured projects:
 
 <p align="center">
   <a href="https://github.com/P-Sushanth">
-    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=P-Sushanth&theme=tokyonight&headerStyle=mac&hostname=claude-code" alt="Claude Code GitHub Stats" />
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=P-Sushanth&theme=tokyonight&headerStyle=mac&hostname=claude-code" onerror="this.style.display='none'" alt="Claude Code GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/P-Sushanth">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Sushanth&layout=compact&langs_count=8&title_color=d97706&icon_color=00d4ff&text_color=ffffff&bg_color=0f172a&hide_border=true&locale=en" alt="Top Languages" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=P-Sushanth&show_icons=true&title_color=d97706&icon_color=00d4ff&text_color=ffffff&bg_color=0f172a&hide_border=true&locale=en" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://github.com/P-Sushanth">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=P-Sushanth&layout=compact&langs_count=8&title_color=d97706&icon_color=00d4ff&text_color=ffffff&bg_color=0f172a&hide_border=true&locale=en" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/P-Sushanth">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=P-Sushanth&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   </a>
@@ -92,7 +98,7 @@ Found 2 active featured projects:
 
 <p align="center">
   <a href="https://github.com/P-Sushanth">
-    <img src="https://github-profile-trophy.vercel.app/?username=P-Sushanth&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-trophies.devomb.com/?username=P-Sushanth&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
