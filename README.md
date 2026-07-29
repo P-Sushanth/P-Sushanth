@@ -78,11 +78,11 @@ Found 2 active featured projects:
 
 <p align="center">
   <a href="https://github.com/P-Sushanth">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=P-Sushanth&show_icons=true&title_color=d97706&icon_color=00d4ff&text_color=ffffff&bg_color=0f172a&hide_border=true&locale=en" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-indol-pi-66.vercel.app/api?username=P-Sushanth&show_icons=true&title_color=d97706&icon_color=00d4ff&text_color=ffffff&bg_color=0f172a&hide_border=true&locale=en&count_private=true" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/P-Sushanth">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=P-Sushanth&layout=compact&langs_count=8&title_color=d97706&icon_color=00d4ff&text_color=ffffff&bg_color=0f172a&hide_border=true&locale=en" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-indol-pi-66.vercel.app/api/top-langs/?username=P-Sushanth&layout=compact&langs_count=8&title_color=d97706&icon_color=00d4ff&text_color=ffffff&bg_color=0f172a&hide_border=true&locale=en&count_private=true" alt="Top Languages" />
   </a>
 </p>
 
