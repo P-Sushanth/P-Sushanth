@@ -86,12 +86,6 @@ Found 2 active featured projects:
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/P-Sushanth">
-    <img height="180em" src="https://github-streak-stats-blush.vercel.app/?user=P-Sushanth&theme=tokyonight&hide_border=true&count_private=true&v=3" alt="GitHub Streak Stats" />
-  </a>
-</p>
-
 ---
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+Show+trophies+and+3D+contributions" alt="Visuals query" />
