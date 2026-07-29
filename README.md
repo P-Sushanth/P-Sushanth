@@ -1,90 +1,86 @@
-# sushanth@GITAM:~$ neofetch
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&color=d97706&width=450&lines=sushanth@GITAM:~$+claude" alt="Claude command" />
 
 ```text
-       .---.          sushanth@GITAM
-      /     \         --------------
-      \.@-@./         OS: CSE Front-End Terminal v1.0
-      /`\_/`\         Host: React/JS Developer Environment
-     //  _  \\        Kernel: B.Tech CSE @ GITAM University
-    | \     / |       Uptime: 2+ Years of Web Development
-   / \ \___/ / \      Shell: bash 5.2
-  /   \_____/   \     DE: Figma / VS Code
-  \             /     WM: Vite / Next.js
-   \           /      Memory: 16GB JavaScript Heap
-    `---------'       Status: Open to Collaboration (Hireable)
+Claude Code (v0.2.1-beta)
+   _ _ _ _
+  /  _ _  \      Connected to workspace: c:\Users\popur\Documents\Projects\ReadMe
+ /  /   \  \     User: P-Sushanth (Sushanth)
+ \  \_ _/  /     Role: Front-End Developer | UI/UX Designer
+  \_ _ _ _/      University: B.Tech CSE @ GITAM
+
+Type /help for a list of available slash commands.
 ```
 
 ---
 
-### 📂 Terminal Directory List
-
-```bash
-sushanth@GITAM:~$ ls -la
-drwxr-xr-x  1 sushanth staff   512 Jul 29 21:15 .
-drwxr-xr-x  1 sushanth staff   512 Jul 29 21:15 ..
--rw-r--r--  1 sushanth staff  2048 Jul 29 21:15 about_me.txt
--rw-r--r--  1 sushanth staff  1024 Jul 29 21:15 skills.json
--rw-r--r--  1 sushanth staff  4096 Jul 29 21:15 active_projects.json
--rwxr-xr-x  1 sushanth staff  1024 Jul 29 21:15 contact_me.sh
-```
-
----
-
-### 📝 sushanth@GITAM:~$ cat about_me.txt
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+Tell+me+about+yourself" alt="About Me query" />
 
 ```text
-I am a passionate Front-End Developer and UI/UX Designer studying Computer Science 
+🤖 Thinking Process:
+  1. Retrieve user credentials from GITAM database
+  2. Parse academic background and tech interests
+  3. Formulate bio response
+
+Here is the profile details for Sushanth:
+"I am a passionate Front-End Developer and UI/UX Designer studying Computer Science 
 Engineering at GITAM. I specialize in building responsive, component-driven web 
-applications and crafting smooth, user-focused visual journeys.
+applications and crafting smooth, user-focused visual journeys."
 ```
 
 ---
 
-### 🛠️ sushanth@GITAM:~$ cat skills.json
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+What+is+your+tech+stack%3F" alt="Skills query" />
 
-```json
-{
-  "languages": ["JavaScript", "TypeScript", "Python", "HTML5", "CSS3"],
-  "frameworks": ["React.js", "Node.js", "Express.js"],
-  "databases": ["PostgreSQL", "MongoDB", "Redis"],
-  "tools": ["Docker", "Git", "Figma", "VS Code"]
-}
+```text
+🤖 Thinking Process:
+  1. Query active technologies in workspace
+  2. Group by languages, frameworks, and databases
+
+[Languages]
+  • JavaScript   • TypeScript   • Python       • HTML5       • CSS3
+
+[Frameworks & Libraries]
+  • React.js     • Node.js      • Express.js
+
+[Databases & DevOps]
+  • PostgreSQL   • MongoDB      • Redis        • Docker
 ```
 
 ---
 
-### 🚀 sushanth@GITAM:~$ cat active_projects.json
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+List+your+featured+projects" alt="Projects query" />
 
-```json
-[
-  {
-    "name": "Compiler Visualizer",
-    "description": "Visual compiler analysis built on React/TypeScript",
-    "url": "https://github.com/P-Sushanth/Compiler_Visualizer"
-  },
-  {
-    "name": "AI Legislative Analyser",
-    "description": "Smart legal analyzer using python models",
-    "url": "https://github.com/P-Sushanth/AI_Legastive_Analyser"
-  }
-]
+```text
+🤖 Thinking Process:
+  1. Fetch public repositories from github.com/P-Sushanth
+  2. Filter by featured status
+
+Found 2 active featured projects:
+
+1. Compiler Visualizer 🏙️
+   - Description: Visual compiler analysis built on React/TypeScript
+   - Repo: https://github.com/P-Sushanth/Compiler_Visualizer
+
+2. AI Legislative Analyser ⚖️
+   - Description: Smart legal analyzer using python models
+   - Repo: https://github.com/P-Sushanth/AI_Legastive_Analyser
 ```
 
 ---
 
-### 📊 sushanth@GITAM:~$ ./fetch_github_stats.sh
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+Show+your+GitHub+statistics" alt="Stats query" />
 
 <p align="center">
   <a href="https://github.com/P-Sushanth">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=P-Sushanth&show_icons=true&title_color=f75c7f&icon_color=00d4ff&text_color=ffffff&bg_color=0f172a&hide_border=true&locale=en" alt="GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/P-Sushanth">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Sushanth&layout=compact&langs_count=8&title_color=f75c7f&icon_color=00d4ff&text_color=ffffff&bg_color=0f172a&hide_border=true&locale=en" alt="Top Languages" />
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=P-Sushanth&theme=tokyonight&headerStyle=mac&hostname=claude-code" alt="Claude Code GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/P-Sushanth">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Sushanth&layout=compact&langs_count=8&title_color=d97706&icon_color=00d4ff&text_color=ffffff&bg_color=0f172a&hide_border=true&locale=en" alt="Top Languages" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/P-Sushanth">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=P-Sushanth&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   </a>
@@ -92,51 +88,49 @@ applications and crafting smooth, user-focused visual journeys.
 
 ---
 
-### 🏆 sushanth@GITAM:~$ ./view_trophies.sh
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+Show+trophies+and+3D+contributions" alt="Visuals query" />
+
 <p align="center">
   <a href="https://github.com/P-Sushanth">
     <img src="https://github-profile-trophy.vercel.app/?username=P-Sushanth&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
----
-
-### 🏙️ sushanth@GITAM:~$ ./view_3d_contribution_city.sh
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" onerror="this.style.display='none'" alt="3D Contribution Graph (Pending first Action run)" />
 </p>
 
 ---
 
-### ⚡ sushanth@GITAM:~$ tail -n 5 recent_activity.log
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+tail+-n+5+recent_activity.log" alt="Log query" />
+
 <!--START_SECTION:activity-->
 <!--Recent activity will be updated here automatically every 30 minutes via GitHub Actions-->
 <!--END_SECTION:activity-->
 
 ---
 
-### 🤝 sushanth@GITAM:~$ ping -c 4 socials
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+/link-socials" alt="Socials query" />
 
 ```text
-PING linkedin.com ([YOUR_LINKEDIN_USERNAME]): 56 data bytes
-64 bytes from linkedin: icmp_seq=1 ttl=56 time=12.4 ms -> https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]
+Pinging connection tunnels...
 
-PING twitter.com ([YOUR_TWITTER_USERNAME]): 56 data bytes
-64 bytes from twitter: icmp_seq=2 ttl=56 time=15.1 ms -> https://twitter.com/[YOUR_TWITTER_USERNAME]
+[LinkedIn]  ->  https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]
+[Twitter]   ->  https://twitter.com/[YOUR_TWITTER_USERNAME]
+[Portfolio] ->  https://p-sushanth.github.io/Portfolio/
+[Email]     ->  mailto:popurisushanth@gmail.com
 
-PING portfolio ([p-sushanth.github.io]): 56 data bytes
-64 bytes from portfolio: icmp_seq=3 ttl=56 time=8.2 ms -> https://p-sushanth.github.io/Portfolio/
-
-PING email ([popurisushanth@gmail.com]): 56 data bytes
-64 bytes from email: icmp_seq=4 ttl=56 time=1.1 ms -> mailto:popurisushanth@gmail.com
-
---- socials ping statistics ---
-4 packets transmitted, 4 received, 0% packet loss, time 2004ms
+All tunnels healthy. Connection established.
 ```
 
 ---
 
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+exit" alt="Exit command" />
+
+```text
+Bye! Thanks for checking out my profile. 🚀
+```
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
-
