@@ -88,8 +88,6 @@ Found 2 active featured projects:
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+Show+trophies+and+3D+contributions" alt="Visuals query" />
-
 <p align="center">
   <a href="https://github.com/P-Sushanth">
     <img src="https://github-trophies.devomb.com/?username=P-Sushanth&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
