@@ -2,11 +2,26 @@
 
 ```text
 Claude Code (v0.2.1-beta)
-   _ _ _ _
-  /  _ _  \      Connected to workspace: c:\Users\popur\Documents\Projects\ReadMe
- /  /   \  \     User: P-Sushanth (Sushanth)
- \  \_ _/  /     Role: Front-End Developer | UI/UX Designer
-  \_ _ _ _/      University: B.Tech CSE @ GITAM
+
+██████╗  ██████╗ ██████╗ ██╗   ██╗██████╗ ██╗
+██╔══██╗██╔═══██╗██╔══██╗██║   ██║██╔══██╗██║
+██████╔╝██║   ██║██████╔╝██║   ██║██████╔╝██║
+██╔═══╝ ██║   ██║██╔═══╝ ██║   ██║██╔══██╗██║
+██║     ╚██████╔╝██║     ╚██████╔╝██║  ██║██║
+╚═╝      ╚═════╝ ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝
+
+
+███████╗██╗   ██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗████████╗██╗  ██╗
+██╔════╝██║   ██║██╔════╝██║  ██║██╔══██╗████╗  ██║╚══██╔══╝██║  ██║
+███████╗██║   ██║███████╗███████║███████║██╔██╗ ██║   ██║   ███████║
+╚════██║██║   ██║╚════██║██╔══██║██╔══██║██║╚██╗██║   ██║   ██╔══██║
+███████║╚██████╔╝███████║██║  ██║██║  ██║██║ ╚████║   ██║   ██║  ██║
+╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
+
+Connected to workspace: c:\Users\popur\Documents\Projects\ReadMe
+User: P-Sushanth (Sushanth)
+Role: Front-End Developer | UI/UX Designer
+University: B.Tech CSE @ GITAM
 
 Type /help for a list of available slash commands.
 ```
@@ -86,6 +101,12 @@ Found 2 active featured projects:
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/P-Sushanth">
+    <img height="180em" src="./profile/streak.svg" onerror="this.style.display='none'" alt="GitHub Streak Stats" />
+  </a>
+</p>
+
 ---
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+Show+trophies+and+3D+contributions" alt="Visuals query" />
@@ -105,7 +126,7 @@ Found 2 active featured projects:
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+tail+-n+5+recent_activity.log" alt="Log query" />
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/P-Sushanth/Portfolio/pull/2) in [P-Sushanth/Portfolio](https://github.com/P-Sushanth/Portfolio)
+<!--Recent activity will be updated here automatically every 30 minutes via GitHub Actions-->
 <!--END_SECTION:activity-->
 
 ---
