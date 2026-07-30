@@ -1,5 +1,3 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&color=d97706&width=450&lines=sushanth@GITAM:~$+claude" alt="Claude command" />
-
 ```text
 Claude Code (v0.2.1-beta)
 
@@ -19,7 +17,6 @@ Claude Code (v0.2.1-beta)
 ╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
 
 Connected to workspace: c:\Users\popur\Documents\Projects\ReadMe
-User: P-Sushanth (Sushanth)
 Role: Front-End Developer | UI/UX Designer
 University: B.Tech CSE @ GITAM
 
