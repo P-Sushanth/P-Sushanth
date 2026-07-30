@@ -3,6 +3,9 @@ on:
   schedule:
     - cron: "0 18 * * *" # Runs daily at 18:00 UTC
   workflow_dispatch:      # Allows manual trigger
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
