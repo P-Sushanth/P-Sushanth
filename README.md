@@ -26,7 +26,7 @@ Type /help for a list of available slash commands.
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+Tell+me+about+yourself" alt="About Me query" />
 
 ```text
-🤖 Thinking Process:
+ Thinking Process:
   1. Retrieve user credentials from GITAM database
   2. Parse academic background and tech interests
   3. Formulate bio response
@@ -42,7 +42,7 @@ applications and crafting smooth, user-focused visual journeys."
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+What+is+your+tech+stack%3F" alt="Skills query" />
 
 ```text
-🤖 Thinking Process:
+ Thinking Process:
   1. Query active technologies in workspace
   2. Group by languages, frameworks, and databases
 
@@ -61,17 +61,17 @@ applications and crafting smooth, user-focused visual journeys."
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+List+your+featured+projects" alt="Projects query" />
 
 ```text
-🤖 Thinking Process:
+ Thinking Process:
   1. Fetch public repositories from github.com/P-Sushanth
   2. Filter by featured status
 
 Found 2 active featured projects:
 
-1. Compiler Visualizer 🏙️
+1. Compiler Visualizer 
    - Description: Visual compiler analysis built on React/TypeScript
    - Repo: https://github.com/P-Sushanth/Compiler_Visualizer
 
-2. AI Legislative Analyser ⚖️
+2. AI Legislative Analyser 
    - Description: Smart legal analyzer using python models
    - Repo: https://github.com/P-Sushanth/AI_Legastive_Analyser
 ```
