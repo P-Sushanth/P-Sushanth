@@ -16,9 +16,7 @@ Claude Code (v0.2.1-beta)
 ███████║╚██████╔╝███████║██║  ██║██║  ██║██║ ╚████║   ██║   ██║  ██║
 ╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
 
-Connected to workspace: c:\Users\popur\Documents\Projects\ReadMe
-Role: Front-End Developer | UI/UX Designer
-University: B.Tech CSE @ GITAM
+Role: Full Stack Developer | Quantum Enthusiast
 
 Type /help for a list of available slash commands.
 ```
