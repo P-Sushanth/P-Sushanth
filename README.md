@@ -121,7 +121,7 @@ Found 2 active featured projects:
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+tail+-n+5+recent_activity.log" alt="Log query" />
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/P-Sushanth/Portfolio/pull/2) in [P-Sushanth/Portfolio](https://github.com/P-Sushanth/Portfolio)
+1. 🎉 Merged PR [#3](https://github.com/P-Sushanth/Portfolio/pull/3) in [P-Sushanth/Portfolio](https://github.com/P-Sushanth/Portfolio)
 <!--END_SECTION:activity-->
 
 ---
