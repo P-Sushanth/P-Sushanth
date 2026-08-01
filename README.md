@@ -1,3 +1,7 @@
+<table border="0">
+<tr>
+<td valign="top" width="50%">
+
 ```text
 Sushanth Code (v0.2.1-beta)
 
@@ -7,7 +11,6 @@ Sushanth Code (v0.2.1-beta)
 ██╔═══╝ ██║   ██║██╔═══╝ ██║   ██║██╔══██╗██║
 ██║     ╚██████╔╝██║     ╚██████╔╝██║  ██║██║
 ╚═╝      ╚═════╝ ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝
-
 
 ███████╗██╗   ██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗████████╗██╗  ██╗
 ██╔════╝██║   ██║██╔════╝██║  ██║██╔══██╗████╗  ██║╚══██╔══╝██║  ██║
@@ -20,6 +23,68 @@ Role: Full Stack Developer | Quantum Enthusiast
 
 Type /help for a list of available slash commands.
 ```
+
+</td>
+<td valign="top" width="50%">
+
+```text
+R R R R # R R R R R R R R / / / / R R R R R R R R R R R R R R R R R R R
+# # R # # R R R R R R R / / / / / R R R R R R R R R R R R R R R R R R R
+# # # # # R R R R R R R / / F F / / R R R R R R R R R R R R R R R R R R R
+# # # # # # R R R R R R F F F / / R R R R R R R R R R R R R R R R R R R
+# # # # # R # R R R R R F F F / / R R R R R R R R R R R R R R R R R R R
+# # # # # # R # R R R R F F F / / / R R R R R R R R R R R R R R R R R R
+# # # # # # # # R R R R R R / / / F R R R R R R R R R R R R R R R R R R
+# # # # # # # # # R R R R R F F F / R / R R R R R R R R R R R R F R F F F
+# # # # # # # # # # R R R R / F F / / / / / R R R R R R R R R R R R R R F
+# # # # # # # # # # R R R R / / F F / / / / / / R R R R R R R R R R R R R
+# # # # # # # # R # R R R / / / F F F / / / / / R R R R R R R R R R R R R
+# # # # # # # # # # # R R / / / / F F F / / / F / R R R R R R R R R R R R
+# # # # # # # # # # # R R R / / / / F F / / / / / R R R R R R R R R R R R
+# # # # # # # # # # # R R / / / / / F F / / / / / R R R R R R R R R R R R
+# # # # # # # # # # # R R / / F / / F F / F F F / / R R R R R R R R R R R
+# # # # # # # # # # # R R R F / / / / F F F F F F / F R R R R R R R R R R
+# # # # # # # # R # R R R R / / / F F F F F F F / / R R R R R R R R R R R
+# # # # # # # # # # # R R R / F F F F F F R F / / / F R R R R R R R R R R
+# # # # # # # # # # # R R R / F F F F F F / / / / F R R R R R R R R R R F
+# # # # # # # # # R R R R R / F / F F F / / / / / / R R R R R R R R F R R R
+# # # # # # # # # R R R R R / / / F F F / F / / / / R R R R R R R F F F R R
+# # # # # # # # R R R R R R / / / F F F / / / / / / R R R R R R R R F R R R
+# # # # # # # # R # R R R / F / F F F / / / / / / / R R R R R R R F R R R R
+# # # # # # # # R R R R R R / / F F F F / / / / / / R R R R R R R F R R R F
+# # # # # # # # R # R R R F F / / / / / / / / / / / R R R R R R R R F R R R
+# # # # # # # # # R R R R R R F / / / / / / / / / / R R R R R R F R R R R R
+# # # # # # # # # R R # R R R R / / / / / / / / / / R R R R R R R R R R R F
+# # # # # # # # # R R R R R R R / / / / / / / / / R R R R R R G R R R R R R R
+# # # # # # # # # R R R R R R R / / / / / / / / F R R R R R F R F R R R R R
+# # # # # # # # # R R R R R R R / / / / / / / / R R R R R R F F F F R R R F
+# # # # # R R R R R R R R R R R / / / / / / / / R R R R R R F F F R R R R R
+# # # R R R R R R R R R R R R R / / / / / / / / R R R R R R R F F R R R R R
+# # R R R R R R R R R R R R R R / / / / / / / / F R F F F F F F F R R R R R
+R R R R R R R R R R R R R R R R / / / / / F / / R F R R R R R F F R R R R F
+R R R R R R R R R R R R R R R R / / / / / R / / F F R R R R R R R R R R R R
+R R R R R R R R R R R R R R R R / / / / / F / / R F R R R R R R R R R R R R
+R R R R R R R R R R R R R R R R / / / / / / / / F F F F F R R R R R R R R R
+R R R R R R R R R R R R R R R R / / / / / / / / R F F F F R F R R R R R R R
+R R R R R R R R R R R R R R R R R / / / / / / / R R R R R R R R R R R R R F
+R R R R R R R R R R R R R R R R R R / / / / / / R R R R R R R R R R R R R F
+R R R R R R R R R R R R R R R R R R R / / / / / F F R R R R R R R R R # R
+R R R R R R R R R R R R R R R R R R R F F / / / / F F F F F R R R R R R R R
+R R R R R R R R R R R R R R R R R R R R R / / / / / F F F F R R F R R R R R
+R R R R R R R R R R R R R R R R R R R R R / / / / / / R F R R R R R R # R
+R R R R R R R R R R R R R R R R F R R R R / / F / / # # # F F R R R R R R R
+R R R R R R R R R R R R R R R R F F R R / / F # # # # # R R R R R R R R R
+R R R R R R R R R R R R R R R R F F R R # R # F # # # # F R R R R R # R R R
+R R R R R R R R R R R R R R R R F R # R R F F # # R R R R R R R R R # R
+R R R R R R R R R R R R R R R R F F # R R F R # F F F R # R R R # R R R
+R R R R R R R R R R R R R R R R # R R # R R F R R # F F R R F R R # R R R
+R R R R R R R R R R R R R R R R # # # R F R # F F # F F R R R R R R R R
+R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
