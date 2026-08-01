@@ -1,6 +1,6 @@
 <table border="0">
 <tr>
-<td valign="top" width="50%">
+<td valign="top">
 
 ```text
 Sushanth Code (v0.2.1-beta)
