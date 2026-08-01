@@ -1,5 +1,5 @@
 ```text
-Claude Code (v0.2.1-beta)
+Sushanth Code (v0.2.1-beta)
 
 ██████╗  ██████╗ ██████╗ ██╗   ██╗██████╗ ██╗
 ██╔══██╗██╔═══██╗██╔══██╗██║   ██║██╔══██╗██║
@@ -32,7 +32,7 @@ Type /help for a list of available slash commands.
   3. Formulate bio response
 
 Here is the profile details for Sushanth:
-"I am a passionate Front-End Developer and UI/UX Designer studying Computer Science 
+"I am a passionate Full-Stack Developer and Quantum Computing Enthusiast, studying Computer Science 
 Engineering at GITAM. I specialize in building responsive, component-driven web 
 applications and crafting smooth, user-focused visual journeys."
 ```
@@ -131,8 +131,7 @@ Found 2 active featured projects:
 ```text
 Pinging connection tunnels...
 
-[LinkedIn]  ->  https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]
-[Twitter]   ->  https://twitter.com/[YOUR_TWITTER_USERNAME]
+[LinkedIn]  ->  [www.linkedin.com/in/p-sushanth-a04587312](https://www.linkedin.com/in/p-sushanth-a04587312/)
 [Portfolio] ->  https://p-sushanth.github.io/Portfolio/
 [Email]     ->  mailto:popurisushanth@gmail.com
 
