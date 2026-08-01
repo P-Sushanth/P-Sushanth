@@ -131,7 +131,7 @@ Found 2 active featured projects:
 ```text
 Pinging connection tunnels...
 
-[LinkedIn]  ->  [www.linkedin.com/in/p-sushanth-a04587312](https://www.linkedin.com/in/p-sushanth-a04587312/)
+[LinkedIn]  ->  https://www.linkedin.com/in/p-sushanth-a04587312/
 [Portfolio] ->  https://p-sushanth.github.io/Portfolio/
 [Email]     ->  mailto:popurisushanth@gmail.com
 
