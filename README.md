@@ -25,62 +25,6 @@ Type /help for a list of available slash commands.
 ```
 
 </td>
-<td valign="top" width="50%">
-
-
-R R R R # R R R R R R R R / / / / R R R R R R R R R R R R R R R R R R R
-# # R # # R R R R R R R / / / / / R R R R R R R R R R R R R R R R R R R
-# # # # # R R R R R R R / / F F / / R R R R R R R R R R R R R R R R R R R
-# # # # # # R R R R R R F F F / / R R R R R R R R R R R R R R R R R R R
-# # # # # R # R R R R R F F F / / R R R R R R R R R R R R R R R R R R R
-# # # # # # R # R R R R F F F / / / R R R R R R R R R R R R R R R R R R
-# # # # # # # # R R R R R R / / / F R R R R R R R R R R R R R R R R R R
-# # # # # # # # # R R R R R F F F / R / R R R R R R R R R R R R F R F F F
-# # # # # # # # # # R R R R / F F / / / / / R R R R R R R R R R R R R R F
-# # # # # # # # # # R R R R / / F F / / / / / / R R R R R R R R R R R R R
-# # # # # # # # R # R R R / / / F F F / / / / / R R R R R R R R R R R R R
-# # # # # # # # # # # R R / / / / F F F / / / F / R R R R R R R R R R R R
-# # # # # # # # # # # R R R / / / / F F / / / / / R R R R R R R R R R R R
-# # # # # # # # # # # R R / / / / / F F / / / / / R R R R R R R R R R R R
-# # # # # # # # # # # R R / / F / / F F / F F F / / R R R R R R R R R R R
-# # # # # # # # # # # R R R F / / / / F F F F F F / F R R R R R R R R R R
-# # # # # # # # R # R R R R / / / F F F F F F F / / R R R R R R R R R R R
-# # # # # # # # # # # R R R / F F F F F F R F / / / F R R R R R R R R R R
-# # # # # # # # # # # R R R / F F F F F F / / / / F R R R R R R R R R R F
-# # # # # # # # # R R R R R / F / F F F / / / / / / R R R R R R R R F R R R
-# # # # # # # # # R R R R R / / / F F F / F / / / / R R R R R R R F F F R R
-# # # # # # # # R R R R R R / / / F F F / / / / / / R R R R R R R R F R R R
-# # # # # # # # R # R R R / F / F F F / / / / / / / R R R R R R R F R R R R
-# # # # # # # # R R R R R R / / F F F F / / / / / / R R R R R R R F R R R F
-# # # # # # # # R # R R R F F / / / / / / / / / / / R R R R R R R R F R R R
-# # # # # # # # # R R R R R R F / / / / / / / / / / R R R R R R F R R R R R
-# # # # # # # # # R R # R R R R / / / / / / / / / / R R R R R R R R R R R F
-# # # # # # # # # R R R R R R R / / / / / / / / / R R R R R R G R R R R R R R
-# # # # # # # # # R R R R R R R / / / / / / / / F R R R R R F R F R R R R R
-# # # # # # # # # R R R R R R R / / / / / / / / R R R R R R F F F F R R R F
-# # # # # R R R R R R R R R R R / / / / / / / / R R R R R R F F F R R R R R
-# # # R R R R R R R R R R R R R / / / / / / / / R R R R R R R F F R R R R R
-# # R R R R R R R R R R R R R R / / / / / / / / F R F F F F F F F R R R R R
-R R R R R R R R R R R R R R R R / / / / / F / / R F R R R R R F F R R R R F
-R R R R R R R R R R R R R R R R / / / / / R / / F F R R R R R R R R R R R R
-R R R R R R R R R R R R R R R R / / / / / F / / R F R R R R R R R R R R R R
-R R R R R R R R R R R R R R R R / / / / / / / / F F F F F R R R R R R R R R
-R R R R R R R R R R R R R R R R / / / / / / / / R F F F F R F R R R R R R R
-R R R R R R R R R R R R R R R R R / / / / / / / R R R R R R R R R R R R R F
-R R R R R R R R R R R R R R R R R R / / / / / / R R R R R R R R R R R R R F
-R R R R R R R R R R R R R R R R R R R / / / / / F F R R R R R R R R R # R
-R R R R R R R R R R R R R R R R R R R F F / / / / F F F F F R R R R R R R R
-R R R R R R R R R R R R R R R R R R R R R / / / / / F F F F R R F R R R R R
-R R R R R R R R R R R R R R R R R R R R R / / / / / / R F R R R R R R # R
-R R R R R R R R R R R R R R R R F R R R R / / F / / # # # F F R R R R R R R
-R R R R R R R R R R R R R R R R F F R R / / F # # # # # R R R R R R R R R
-R R R R R R R R R R R R R R R R F F R R # R # F # # # # F R R R R R # R R R
-R R R R R R R R R R R R R R R R F R # R R F F # # R R R R R R R R R # R
-R R R R R R R R R R R R R R R R F F # R R F R # F F F R # R R R # R R R
-R R R R R R R R R R R R R R R R # R R # R R F R R # F F R R F R R # R R R
-R R R R R R R R R R R R R R R R # # # R F R # F F # F F R R R R R R R R
-R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R
-
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+Tell+me+about+yourself" alt="About Me query" />
 
