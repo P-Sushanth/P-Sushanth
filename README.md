@@ -44,13 +44,13 @@ applications and crafting smooth, user-focused visual journeys."
   2. Group by languages, frameworks, and databases
 
 [Languages]
-  • JavaScript   • TypeScript   • Python       • HTML5       • CSS3
+  • JavaScript        • TypeScript        • Python        • HTML5        • CSS3        • Java
 
 [Frameworks & Libraries]
-  • React.js     • Node.js      • Express.js
+  • React.js        • Node.js        • Express.js
 
 [Databases & DevOps]
-  • PostgreSQL   • MongoDB      • Redis        • Docker
+  • PostgreSQL        • MongoDB        • Redis        • Docker        • Supabase
 ```
 
 ---
