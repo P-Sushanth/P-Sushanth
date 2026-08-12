@@ -62,15 +62,11 @@ applications and crafting smooth, user-focused visual journeys."
   1. Fetch public repositories from github.com/P-Sushanth
   2. Filter by featured status
 
-Found 2 active featured projects:
+Found current projects being worked upon:
 
 1. Compiler Visualizer 
    - Description: Visual compiler analysis built on React/TypeScript
    - Repo: https://github.com/P-Sushanth/Compiler_Visualizer
-
-2. AI Legislative Analyser 
-   - Description: Smart legal analyzer using python models
-   - Repo: https://github.com/P-Sushanth/AI_Legastive_Analyser
 ```
 
 ---
