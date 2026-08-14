@@ -114,7 +114,7 @@ Found current projects being worked upon:
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+tail+-n+5+recent_activity.log" alt="Log query" />
 
 <!--START_SECTION:activity-->
-1. Merged PR [#4079](https://github.com/emmabostian/developer-portfolios/pull/4079) in [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
+1. 🎉 Merged PR [#4079](https://github.com/emmabostian/developer-portfolios/pull/4079) in [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
 <!--END_SECTION:activity-->
 
 ---
