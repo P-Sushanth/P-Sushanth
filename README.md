@@ -91,7 +91,7 @@ Found current projects being worked upon:
 
 <p align="center">
   <a href="https://github.com/P-Sushanth">
-    <img height="180em" src="./profile/streak.svg" onerror="this.style.display='none'" alt="GitHub Streak Stats" />
+    <img height="180em" src="https://raw.githubusercontent.com/P-Sushanth/P-Sushanth/main/profile/streak.svg" onerror="this.style.display='none'" alt="GitHub Streak Stats" />
   </a>
 </p>
 
@@ -106,7 +106,7 @@ Found current projects being worked upon:
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg?v=2" onerror="this.style.display='none'" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/P-Sushanth/P-Sushanth/main/profile-3d-contrib/profile-night-rainbow.svg" onerror="this.style.display='none'" alt="3D Contribution Graph" />
 </p>
 
 ---
@@ -140,5 +140,5 @@ Bye! Thanks for checking out my profile.
 ```
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight" alt="Dev Quote" />
 </p>
