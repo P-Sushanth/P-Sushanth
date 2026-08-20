@@ -15,9 +15,9 @@ Sushanth Code (v27.06.05)
 ███████║╚██████╔╝███████║██║  ██║██║  ██║██║ ╚████║   ██║   ██║  ██║
 ╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
 
-Role: Full Stack Developer | Quantum Enthusiast
+Role: Full Stack Developer | Quantum Enthusiast | Active AI/ML Learner
 
-Type /help for a list of available slash commands.
+Type /help for a list of available commands.
 ```
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+Tell+me+about+yourself" alt="About Me query" />
