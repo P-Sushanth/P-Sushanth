@@ -59,8 +59,9 @@ applications and crafting smooth, user-focused visual journeys."
 
 ```text
  Thinking Process:
-  1. Fetch public repositories from github.com/P-Sushanth
-  2. Filter by status
+  1. Signing In.
+  2. Fetch public repositories from github.com/P-Sushanth
+  3. Filter by status
 
 Found current projects being worked upon:
 
