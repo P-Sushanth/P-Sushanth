@@ -137,7 +137,7 @@ All tunnels healthy. Connection established.
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+exit" alt="Exit command" />
 
 ```text
-Bye! Thanks for checking out my profile. 
+Bye! Thanks for checking out my ReadMe. 
 ```
 
 <p align="center">
