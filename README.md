@@ -15,7 +15,7 @@ Sushanth Code (v27.06.05)
 ███████║╚██████╔╝███████║██║  ██║██║  ██║██║ ╚████║   ██║   ██║  ██║
 ╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
 
-Role: Full Stack Developer | Quantum Enthusiast | Active AI/ML Learner
+Role: Full Stack Developer | Quantum Enthusiast | Active AI/ML Learner | Constant Learner
 
 Type /help for a list of available commands.
 ```
