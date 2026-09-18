@@ -24,13 +24,13 @@ Type /help for a list of available commands.
 
 ```text
  Thinking Process:
-  1. Retrieve user credentials from the GITAM database
+  1. Retrieve user credentials from the database
   2. Parse academic background and tech interests
   3. Formulate bio response
 
 Here are the profile details for Sushanth:
 "I am a passionate Full-Stack Developer and Quantum Computing Enthusiast, studying Computer Science 
-Engineering at GITAM. I specialize in building responsive, component-driven web 
+Engineering. I specialize in building responsive, component-driven web 
 applications and crafting smooth, user-focused visual journeys."
 ```
 
