@@ -68,6 +68,9 @@ Found current projects being worked upon:
 1. Compiler Visualizer 
    - Description: Visual compiler analysis built on React/TypeScript
    - Repo: https://github.com/P-Sushanth/Compiler_Visualizer
+
+2. Browser Extension
+   - Description: An AI-powered extension to detect which site has AI-generated content
 ```
 
 ---
