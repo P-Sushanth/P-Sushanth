@@ -118,7 +118,7 @@ Found current projects being worked upon:
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+tail+-n+5+recent_activity.log" alt="Log query" />
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/PrajwalKarthikeya/the-last-computer/issues/1) in [PrajwalKarthikeya/the-last-computer](https://github.com/PrajwalKarthikeya/the-last-computer)
+1. ❗ Opened issue [#1](https://github.com/PrajwalKarthikeya/Portfolio/issues/1) in [PrajwalKarthikeya/Portfolio](https://github.com/PrajwalKarthikeya/Portfolio)
 <!--END_SECTION:activity-->
 
 ---
