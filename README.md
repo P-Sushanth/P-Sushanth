@@ -115,7 +115,7 @@ Found current projects being worked upon:
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+tail+-n+5+recent_activity.log" alt="Log query" />
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Movie Imposter v1.1.0](https://github.com/P-Sushanth/Movie_Imposter/releases/tag/v1.1.0) in [P-Sushanth/Movie_Imposter](https://github.com/P-Sushanth/Movie_Imposter)
+1. 🚀 Published release [Movie Imposter v1.1.1](https://github.com/P-Sushanth/Movie_Imposter/releases/tag/v1.1.1) in [P-Sushanth/Movie_Imposter](https://github.com/P-Sushanth/Movie_Imposter)
 <!--END_SECTION:activity-->
 
 ---
