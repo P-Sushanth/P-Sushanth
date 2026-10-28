@@ -50,7 +50,7 @@ applications and crafting smooth, user-focused visual journeys."
   • React.js        • Node.js        • Express.js
 
 [Databases & DevOps]
-  • PostgreSQL        • MongoDB        • Redis        • Docker        • Supabase
+  • MySQL        • MongoDB        • Docker        • Supabase
 ```
 
 ---
