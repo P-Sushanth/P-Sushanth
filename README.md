@@ -115,7 +115,7 @@ Found current projects being worked upon:
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=39FF14&width=550&lines=claude+>+tail+-n+5+recent_activity.log" alt="Log query" />
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 - Personal Finance Tracker](https://github.com/P-Sushanth/Finance_Tracker/releases/tag/v1.0.0) in [P-Sushanth/Finance_Tracker](https://github.com/P-Sushanth/Finance_Tracker)
+1. 🚀 Published release [Balance Tracker v1.0.0](https://github.com/P-Sushanth/Balance_Tracker/releases/tag/v1.0.0) in [P-Sushanth/Balance_Tracker](https://github.com/P-Sushanth/Balance_Tracker)
 <!--END_SECTION:activity-->
 
 ---
